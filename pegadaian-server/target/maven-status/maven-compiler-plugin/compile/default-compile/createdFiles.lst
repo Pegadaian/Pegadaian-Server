@@ -1,3 +1,4 @@
 com/pegadaian/AplikasiPegadaianApplication.class
 com/pegadaian/domain/Cekharga.class
+com/pegadaian/config/Security.class
 com/pegadaian/controller/CekhargaController.class
